@@ -1,0 +1,1 @@
+A Flask based Web Application which recommends restaurants based on the location choice of users allowing users to filter restaurants based on their choices of cuisine and sorting them based on price or rating, also giving them the option to rate the restaurant out of 5.
